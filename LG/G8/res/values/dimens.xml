@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="config_minScrollbarTouchTarget">16.0dip</dimen>
+    <dimen name="config_viewConfigurationTouchSlop">7.0pt</dimen>
+    <dimen name="navigation_bar_height">48.0dip</dimen>
+    <dimen name="navigation_bar_width">48.0dip</dimen>
+    <dimen name="notification_action_emphasized_height">30.0dip</dimen>
+    <dimen name="notification_action_list_height">55.0dip</dimen>
+    <dimen name="notification_content_margin">15.0dip</dimen>
+    <dimen name="notification_content_margin_end">17.0dip</dimen>
+    <dimen name="notification_content_margin_start">17.0dip</dimen>
+    <dimen name="notification_content_margin_top">35.0dip</dimen>
+    <dimen name="notification_header_background_height">36.5dip</dimen>
+    <dimen name="notification_header_height">42.0dip</dimen>
+    <dimen name="notification_header_icon_size">14.0dip</dimen>
+    <dimen name="notification_header_margin_bottom">5.0dip</dimen>
+    <dimen name="notification_header_padding_bottom">8.0dip</dimen>
+    <dimen name="notification_header_padding_top">14.0dip</dimen>
+    <dimen name="notification_min_height">86.0dip</dimen>
+    <dimen name="notification_right_icon_size">40.0dip</dimen>
+    <dimen name="status_bar_height_portrait">26.799988dip</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="config_defaultNotificationColor">#ff00ffff</color>
+    <color name="notification_default_color">#ff0a95f4</color>
+    <color name="notification_default_color_dark">#ff0a95f4</color>
+    <color name="notification_default_color_light">#ff0a95f4</color>
+    <color name="system_notification_accent_color">#ff0a95f4</color>
+</resources>
